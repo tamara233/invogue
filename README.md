@@ -1,4 +1,4 @@
-Online clothing store with React JS library.
+Online clothing store built with React JS library and create-react-app.
 
 A user can 
 	login or sign up through email / password or Google account
